@@ -1,0 +1,10 @@
+{
+"name":"ecommerce project",
+"version":"latest",
+"dependencies":{
+  "mixitup":"https://github.com/patrickkunka/mixitup.git",
+  "normalize-css":"latest"
+
+}
+
+}
