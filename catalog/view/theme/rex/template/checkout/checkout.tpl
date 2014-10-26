@@ -1,53 +1,25 @@
 <?php echo $header; ?>
 <div class="container">
-<div class="row">
+	<div class="row">
+		 	<div class="breadcrumb1"><!-- start bread crumbs -->
+    <i class="fa fa-home fa-2x" style="color:#f0ad4e;"></i>
+     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
+     <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
+     <?php } ?>
+   </div><!-- end bread crumbs -->
 
-<div class="col-lg-3">
-	<?php echo $column_left; ?> 
+	<div class="col-md-12">
 
-</div>
-
-<div class="col-lg-9">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-  <h3><?php echo $heading_title; ?></h3>
-   <div class="breadcrumb-1">
-    <?php foreach ($breadcrumbs as $breadcrumb) { ?>
-    <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
-    <?php } ?>
-  </div><!-- end breadcrumb -->
+<div id="content">
   
 
-
-   
-     
+  <h3><?php echo $heading_title; ?></h3>
+  
   <div class="checkout">
-   <div class="panel">
     <div id="checkout">
       <div class="checkout-heading"><?php echo $text_checkout_option; ?></div>
-      <div class="checkout-content" id="checkout-content"></div>
-       </div><!-- end first checkout panel -->
-    </div>  	
-  
-
-
-   
-   
-    
-
+      <div class="checkout-content"></div>
+    </div>
     <?php if (!$logged) { ?>
     <div id="payment-address">
       <div class="checkout-heading"><span><?php echo $text_checkout_account; ?></span></div>
@@ -1006,8 +978,8 @@ function quickConfirm(module){
 }
 //--></script> 
 
-</div><!-- col-9 -->
+</div><!-- end col-lg-12 -->
 
-</div><!-- end row -->
-</div><!-- end container -->
+</div>
+</div><!-- end div container -->
 <?php echo $footer; ?>

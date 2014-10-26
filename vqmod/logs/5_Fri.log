@@ -1,0 +1,3080 @@
+---------- Date: 2014-09-19 14:04:43 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/webvet_percentage_to_specials_multilanguage_v1_1.xml
+   id        : Percentage Saved to Specials - MULTILANGUAGE
+   version   : 1.1
+   vqmver    : 2.4.x
+   author    : webvet || support@webvetservices.com
+VQModObject::parseMods - Could not resolve path for [catalog/language/french/french.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/de_DE/de_DE.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/dutch/dutch.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/spanish/spanish.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/italian/italian.php] (SKIPPED)
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:12:05 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/webvet_percentage_to_specials_multilanguage_v1_1.xml
+   id        : Percentage Saved to Specials - MULTILANGUAGE
+   version   : 1.1
+   vqmver    : 2.4.x
+   author    : webvet || support@webvetservices.com
+VQModObject::parseMods - Could not resolve path for [catalog/language/french/french.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/de_DE/de_DE.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/dutch/dutch.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/spanish/spanish.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/italian/italian.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:12:06 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:12:06 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:12:07 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:01 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/webvet_percentage_to_specials_multilanguage_v1_1.xml
+   id        : Percentage Saved to Specials - MULTILANGUAGE
+   version   : 1.1
+   vqmver    : 2.4.x
+   author    : webvet || support@webvetservices.com
+VQModObject::parseMods - Could not resolve path for [catalog/language/french/french.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/de_DE/de_DE.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/dutch/dutch.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/spanish/spanish.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/italian/italian.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:01 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:03 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:03 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:03 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:18:49 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:19:03 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=60
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:19:03 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 14:19:04 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:22:26 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:22:30 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:25:18 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:25:37 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:28:54 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:29:07 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:29:54 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:30:08 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:30:38 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:30:53 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:31:59 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:32:53 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:33:13 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:34:10 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:34:40 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:34:49 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:35:38 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:36:26 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:38:06 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:38:33 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:38:48 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:39:30 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:39:39 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:39:56 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:40:17 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:40:36 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:40:53 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:41:17 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:41:39 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:41:48 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:42:43 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/success
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:42:54 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=information/contact
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:42:59 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/success
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:43:03 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:44:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:44:09 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:44:14 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:44:21 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:44:26 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:46:10 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:46:47 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:48:28 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:49:28 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:49:58 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:50:36 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:50:53 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:52:18 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:52:26 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:52:40 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:53:09 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:53:28 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=2
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:54:32 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/return/insert
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:54:49 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/download
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:54:57 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:55:12 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:55:13 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:55:15 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:55:24 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/password
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:59:00 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/password
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 18:59:26 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/password
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:00:00 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/password
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:00:06 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/logout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:00:13 ~ IP : ::1 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:00:41 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:00:45 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:01:08 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:01:40 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:01:53 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:02:46 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:03:28 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:04:59 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:07:25 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:10 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=information/contact
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:15 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=4
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:19 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=6
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:21 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=3
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:23 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=5
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:29 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:45 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/register
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:08:51 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:10:33 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/success
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:10:37 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:10:42 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:12:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:14:25 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:15:11 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:15:17 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address/insert
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:15:22 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:15:26 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:16:52 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:17:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:17:24 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:19:34 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:20:08 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:20:39 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:21:04 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:22:22 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:22:49 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:23:06 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:23:50 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:24:31 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:26:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:26:50 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:27:30 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:28:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:28:24 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:28:28 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:28:36 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/newsletter
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:28:46 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/logout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:28:54 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:29:14 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:30:07 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:30:18 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:30:41 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/forgotten
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:31:07 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/forgotten
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:31:39 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/forgotten
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:32:27 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:32:54 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:33:30 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:34:04 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:37:20 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/forgotten
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:37:25 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:37:47 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:37:58 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:41:02 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:44:42 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/forgotten
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:44:50 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:54:22 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:55:34 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/forgotten
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:56:36 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/forgotten
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:56:39 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:57:06 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:57:08 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:57:19 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/checkout
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:58:51 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/success
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:58:54 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:58:57 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order/info&amp;order_id=4
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:59:01 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/return/insert&amp;order_id=4&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:59:09 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/return/insert
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 19:59:22 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/return/success
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:02:19 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/return/insert&amp;order_id=4&amp;product_id=55
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:02:27 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:02:34 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/return
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:02:40 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/order
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:02:43 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:03:20 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=checkout/cart
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:03:36 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/account
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:03:39 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:03:42 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/wishlist
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:03:46 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=account/address
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:03:49 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=60_62
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:04:06 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=60_62
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-19 20:04:16 ~ IP : ::1 ----------
+REQUEST URI : /index.php?route=product/compare
+MOD DETAILS:
+   modFile   : /Users/unobab/Desktop/kitchen/vqmod/xml/ocp_currency_dropdown.xml
+   id        : Replaces currency blocks with a drop down menu.
+   version   : 2
+   vqmver    : 2.1.7
+   author    : OpenCartPlus
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - EMPTY SEARCH CONTENT ERROR
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): 
+
+----------------------------------------------------------------------
+
+

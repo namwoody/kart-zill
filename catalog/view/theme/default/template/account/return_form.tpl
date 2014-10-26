@@ -3,13 +3,13 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-3">
+    <div class="col-lg-3 col-md-2">
       <?php echo $column_left; ?>
     </div><!-- end col-lg-3 -->
 
 <!-- start return form -->
 
-<div class="col-lg-9">
+<div class="col-lg-9 col-md-9">
   
 <?php if ($error_warning) { ?>
 <div class="warning"><?php echo $error_warning; ?></div>

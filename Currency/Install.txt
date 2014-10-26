@@ -1,0 +1,13 @@
+This modification was created by Peter Stuart - www.opencartplus.net || peter@opencartplus.net
+
+This is extremely easy to install and requires no coding.
+VQMod is required for this to work, if you wish to install it without VQMod please download version 1.0.
+If you are unsure please email opencartplus@gmail.com for a free installation service.
+
+
+INSTALLATION:
+
+1. Upload the file name ocp_currency_dropdown.xml to YOUR_OPENCART_ROOT/vqmod/xml/
+
+
+Check your store and you will see a nice smooth drop-down menu to change currencies :)

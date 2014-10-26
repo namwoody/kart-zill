@@ -6,6 +6,14 @@
 
 <div class="container">
 <div class="row">
+ <div class="breadcrumb1"><!-- start bread crumbs -->
+    <i class="fa fa-home fa-2x" style="color:#f0ad4e;"></i>
+     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
+     <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
+     <?php } ?>
+   </div><!-- end bread crumbs -->
+
+
 <div class="col-lg-3"><?php echo $column_left; ?></div><!-- end col-lg -->
 
 
@@ -15,11 +23,7 @@
   
 
   <h1><?php echo $heading_title; ?></h1>
-<div class="breadcrumb-1">
-    <?php foreach ($breadcrumbs as $breadcrumb) { ?>
-    <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
-    <?php } ?>
-  </div>
+
 
 
 
@@ -93,6 +97,14 @@
   <div class="product-list">
     <?php foreach ($products as $product) { ?>
     <div>
+       <?php if($product['special']){ ?>
+        <div class="savingpercentage">
+          
+        </div>
+
+    <?php } ?>
+
+
       <?php if ($product['thumb']) { ?>
       <div class="image"><a href="<?php echo $product['href']; ?>"><img src="<?php echo $product['thumb']; ?>" title="<?php echo $product['name']; ?>" alt="<?php echo $product['name']; ?>" /></a></div>
       <?php } ?>
@@ -115,10 +127,10 @@
       <div class="rating"><img src="catalog/view/theme/default/image/stars-<?php echo $product['rating']; ?>.png" alt="<?php echo $product['reviews']; ?>" /></div>
       <?php } ?>
       <div class="cart">
-        <input type="button" value="<?php echo $button_cart; ?>" onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button" />
+        <input type="button" value="<?php echo $button_cart; ?>" onclick="addToCart('<?php echo $product['product_id']; ?>');" class="btn btn-warning" />
       </div>
-      <div class="wishlist"><a onclick="addToWishList('<?php echo $product['product_id']; ?>');"><?php echo $button_wishlist; ?></a></div>
-      <div class="compare"><a onclick="addToCompare('<?php echo $product['product_id']; ?>');"><?php echo $button_compare; ?></a></div>
+      <div class="wishlist" style="display:none;"><a onclick="addToWishList('<?php echo $product['product_id']; ?>');"><?php echo $button_wishlist; ?></a></div>
+      <div class="compare" style="display:none;"><a onclick="addToCompare('<?php echo $product['product_id']; ?>');"><?php echo $button_compare; ?></a></div>
     </div>
     <?php } ?>
   </div>

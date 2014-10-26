@@ -60,4 +60,15 @@ Please donate via PayPal to donate@opencart.com
 <div id="powered"><?php echo $powered; ?></div>
 </div><!-- end footer row -->
 </div><!-- end footer-bottom container -->
+
+
+
+
+
+
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+
+
+
+
 </body></html>

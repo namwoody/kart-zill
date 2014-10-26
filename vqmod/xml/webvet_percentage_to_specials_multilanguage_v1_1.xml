@@ -1,0 +1,234 @@
+﻿<modification>
+	<id>Percentage Saved to Specials - MULTILANGUAGE</id>
+	<version>1.1</version>
+	<vqmver>2.4.x</vqmver>
+	<author>webvet || support@webvetservices.com</author>
+
+// LANGUAGE FILES 			<!-- ADD ANY OTHER LANGUAGE FILES HERE/E-MAIL support@webvetservices.com FOR ASSISTANCE -->
+<file name="catalog/language/english/english.php">
+<operation info="Add English language files">
+	<search position="before"><![CDATA[
+	?>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	$_['text_percent'] = 'SAVE %s&#37;';
+	]]></add>
+</operation>
+</file>
+
+<file name="catalog/language/french/french.php">
+<operation info="Add French language files" error="skip">
+	<search position="before"><![CDATA[
+	?>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	$_['text_percent'] = 'Vous gagnez %s&#37;';
+	]]></add>
+</operation>
+</file>
+
+<file name="catalog/language/de_DE/de_DE.php">
+<operation info="Add German language files" error="skip">
+	<search position="before"><![CDATA[
+	?>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	$_['text_percent'] = 'Sparen %s&#37;';
+	]]></add>
+</operation>
+</file>
+
+<file name="catalog/language/dutch/dutch.php">
+<operation info="Add Dutch language files" error="skip">
+	<search position="before"><![CDATA[
+	?>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	$_['text_percent'] = 'U bespaart %s&#37;';
+	]]></add>
+</operation>
+</file>
+
+<file name="catalog/language/spanish/spanish.php">
+<operation info="Add Spanish language files" error="skip">
+	<search position="before"><![CDATA[
+	?>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	$_['text_percent'] = 'Salvar %s&#37;';
+	]]></add>
+</operation>
+</file>
+
+<file name="catalog/language/italian/italian.php">
+<operation info="Add Italian language files" error="skip">
+	<search position="before"><![CDATA[
+	?>
+	]]></search>
+
+	<add><![CDATA[
+	$_['text_percent'] = 'Salvare %s&#37;';
+	]]></add>
+</operation>
+</file>
+
+// Controller Files
+<file path="catalog/controller/" name="module/bestseller.php,module/latest.php,module/special.php,product/category.php,product/manufacturer.php,product/search.php,product/special.php">
+<operation>
+	<search position="after" regex="true"><![CDATA[
+	/\'special\'[ \t]*=>[ ]*\$special,/i
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	'saving'	=> sprintf($this->language->get('text_percent'), (round((($result['price'] -  $result['special'])/$result['price'])*100 ,0))),
+	]]></add>
+</operation>
+</file>
+
+<file path="catalog/controller/" name="module/featured.php">
+<operation>
+	<search position="after" regex="true"><![CDATA[
+	/\'special\'[ \t]*=>[ ]*\$special,/i
+	]]></search>
+	
+	<add trim="true"><![CDATA[
+	'saving'	 => sprintf($this->language->get('text_percent'), (round((($product_info['price'] - $product_info['special'])/$product_info['price'])*100, 0))),
+	]]></add>
+</operation>
+</file>
+
+// Template Files
+<file path="catalog/view/theme/*/template/" name="module/bestseller.tpl,module/featured.tpl,module/latest.tpl,module/special.tpl,product/category.tpl,product/manufacturer_info.tpl,product/search.tpl,product/special.tpl">
+<operation>
+	<search position="after"><![CDATA[
+	<span class="price-old"><?php echo $product['price']; ?></span> <span class="price-new"><?php echo $product['special']; ?></span>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	<br /><span style="color: red;"><?php echo $product['saving']; ?></span>
+	]]></add>
+</operation>
+</file>
+
+<!-- Pages with Individual Coding Requirements -->
+// Product Page
+<file path="catalog/controller/product/" name="product.php">
+<operation>
+	<search position="after"><![CDATA[
+	if ((float)$product_info['special']) {
+	]]></search>
+	
+	<add trim="true"><![CDATA[
+	$this->data['saving'] = sprintf($this->language->get('text_percent'), (round((($product_info['price'] - $product_info['special'])/$product_info['price'])*100, 0)));
+	]]></add>
+</operation>
+
+<operation info="For Related Product price">
+	<search position="after" regex="true"><![CDATA[
+	/\'special\'[ \t]*=>[ ]*\$special,/i
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	'saving'	=> sprintf($this->language->get('text_percent'), (round((($result['price'] -  $result['special'])/$result['price'])*100 ,0))),
+	]]></add>
+</operation>
+</file>
+
+<file path="catalog/view/theme/*/template/product/" name="product.tpl">
+<operation info="Main Product Description">
+	<search position="after"><![CDATA[
+	  <div class="savingpercentage">
+
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	<br /> <span id="saving"><?php echo $saving; ?></span>
+	]]></add>
+</operation>
+
+<operation info="Related Products tab">
+	<search position="after"><![CDATA[
+	<span class="price-old"><?php echo $product['price']; ?></span> <span class="price-new"><?php echo $product['special']; ?></span>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	<br /><span style="color: red;"><?php echo $product['saving']; ?></span>
+	]]></add>
+</operation>
+</file>
+
+// category 
+
+<file path="catalog/view/theme/*/template/product/" name="category.tpl">
+<operation info="Main Product Description">
+	<search position="after"><![CDATA[
+	  <div class="savingpercentage">
+
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	<br /> <span id="saving"><?php echo $saving; ?></span>
+	]]></add>
+</operation>
+
+
+</file>
+
+
+
+// Wish List
+<file name="catalog/controller/account/wishlist.php">
+<operation>
+	<search position="after"><![CDATA[
+	$this->data['products'][] = array(
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	'saving' => sprintf($this->language->get('text_percent'), (round((($product_info['price'] - $product_info['special'])/$product_info['price'])*100,0))),
+	]]></add>
+</operation>
+</file>
+
+<file name="catalog/view/theme/*/template/account/wishlist.tpl">
+<operation>
+	<search position="after"><![CDATA[
+	<s><?php echo $product['price']; ?></s> <b><?php echo $product['special']; ?></b>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	<br /><span style="color: red; font-weight: bold;"><?php echo $product['saving']; ?></span>
+	]]></add>
+</operation>
+</file>
+
+// Product Comparison
+<file name="catalog/controller/product/compare.php">
+<operation>
+	<search position="after"><![CDATA[
+	$this->data['products'][$product_id] = array(
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	'saving' => sprintf($this->language->get('text_percent'), (round((($product_info['price'] - $product_info['special'])/$product_info['price'])*100, 0))),
+	]]></add>
+</operation>
+</file>
+
+<file name="catalog/view/theme/*/template/product/compare.tpl">
+<operation>
+	<search position="after"><![CDATA[
+	<span class="price-old"><?php echo $products[$product['product_id']]['price']; ?></span> <span class="price-new"><?php echo $products[$product['product_id']]['special']; ?></span>
+	]]></search>
+
+	<add trim="true"><![CDATA[
+	<br /><span style="color: red; font-weight: bold;"><?php echo $product['saving']; ?></span>
+	]]></add>
+</operation>
+</file>
+
+</modification>

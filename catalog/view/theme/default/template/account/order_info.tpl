@@ -5,8 +5,15 @@
     <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
     <?php } ?>
   </div>
-  <h1><?php echo $heading_title; ?></h1>
-  <table class="list">
+
+
+
+<div class="panel panel-warning">
+  <div class="panel-heading">
+    <h1 class="panel-title"><?php echo $heading_title; ?></h1>
+  </div>
+   <div class="panel-body">
+      <table class="table">
     <thead>
       <tr>
         <td class="left" colspan="2"><?php echo $text_order_detail; ?></td>
@@ -28,7 +35,7 @@
       </tr>
     </tbody>
   </table>
-  <table class="list">
+  <table class="table">
     <thead>
       <tr>
         <td class="left"><?php echo $text_payment_address; ?></td>
@@ -46,7 +53,7 @@
       </tr>
     </tbody>
   </table>
-  <table class="list">
+  <table class="table">
     <thead>
       <tr>
         <td class="left"><?php echo $column_name; ?></td>
@@ -134,6 +141,14 @@
       <?php } ?>
     </tbody>
   </table>
+   </div><!-- panel body -->
+
+</div><!-- end panel warning -->
+
+
+
+
+ 
   <?php } ?>
   <div class="buttons">
     <div class="right"><a href="<?php echo $continue; ?>" class="button"><?php echo $button_continue; ?></a></div>

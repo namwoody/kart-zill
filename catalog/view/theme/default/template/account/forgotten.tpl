@@ -1,8 +1,15 @@
 <?php echo $header; ?>
+
 <?php if ($error_warning) { ?>
 <div class="warning"><?php echo $error_warning; ?></div>
 <?php } ?>
-<?php echo $column_left; ?><?php echo $column_right; ?>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-3">
+<?php echo $column_left; ?></div><!-- end div content -->
+
+<div class="col-lg-9">
 <div id="content"><?php echo $content_top; ?>
   <div class="breadcrumb">
     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
@@ -24,9 +31,12 @@
     <div class="buttons">
       <div class="left"><a href="<?php echo $back; ?>" class="button"><?php echo $button_back; ?></a></div>
       <div class="right">
-        <input type="submit" value="<?php echo $button_continue; ?>" class="button" />
+        <input type="submit" value="<?php echo $button_continue; ?>" class="btn btn-warning" />
       </div>
     </div>
   </form>
+</div><!-- end content col-lg-9 -->
+</div><!-- end row -->
+  </div><!-- end container -->
   <?php echo $content_bottom; ?></div>
 <?php echo $footer; ?>

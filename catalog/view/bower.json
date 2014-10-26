@@ -4,6 +4,7 @@
   "dependencies": {
     "mixitup": "https://github.com/patrickkunka/mixitup.git",
     "normalize-css": "latest",
-    "superfish": "~1.7.4"
+    "superfish": "~1.7.4",
+    "geocomplete":"latest"
   }
 }

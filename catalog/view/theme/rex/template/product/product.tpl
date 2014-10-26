@@ -2,26 +2,51 @@
 <div class="container"><!-- start container -->
 
   <div class="row">
-
+<div class="breadcrumb1"><!-- start bread crumbs -->
+    <i class="fa fa-home fa-2x" style="color:#f0ad4e;"></i>
+     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
+     <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
+     <?php } ?>
+   </div><!-- end bread crumbs -->
   <!-- start column_left -->
-  <div class="col-lg-3">
-    <?php echo $column_left; ?>
-  </div><!-- end  column_left  -->
+ 
 
-  <div class="col-lg-9">
+  <div class="col-lg-12">
     
-<div id="content">
+<div id="content-1">
+ 
 
-  
+
+  <script type="text/javascript" src="catalog/view/theme/mytheme/js/product-zoom.js"></script>
+
   
 
 
   <div class="product-info">
+    <?php if($special){ ?>
+        <div class="savingpercentage">
+          
+        </div>
+
+    <?php } ?>
+  
+
+
+
     <?php if ($thumb || $images) { ?>
   
-    <div class="left">
+    <div class="col-lg-5 col-md-6">
       <?php if ($thumb) { ?>
-      <div class="image"><a href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>" class="colorbox"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" id="image" /></a></div>
+      <div class="image">
+
+
+
+
+
+      <a href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>" class="jqzoom" rel='gal1'>
+
+
+      <img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" id="image" class="" /></a></div>
       <?php } ?>
       <?php if ($images) { ?>
       <div class="image-additional">
@@ -34,11 +59,35 @@
     <?php } ?>
 
 
+   <!-- div right panel -->
 
-    <div class="right">
+
+    <div class="col-lg-7 col-md-6">
+     <div class="addthis_default_style" id="socialite"><a class="addthis_button_compact"><?php echo $text_share; ?></a> <a class="addthis_button_email"></a><a class="addthis_button_print"></a> <a class="addthis_button_facebook"></a> <a class="addthis_button_twitter"></a></div>
+          <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script> <br />
+ 
+
       <div class="description">
-      <h3><?php echo $heading_title; ?><h3>
+
+
+
+
+
+
       
+      <h3><?php echo $heading_title; ?><h3>
+
+   
+
+
+
+
+
+      <span><?php echo "SKU:"; ?><?php echo $sku;?>
+         
+  
+
+      </span>
        <div class="text-warning" id="text_stock">
          <span><?php echo $text_stock; ?></span> <?php echo $stock; ?>
        </div>
@@ -61,9 +110,10 @@
         <span class="price-old"><?php echo $price; ?></span> <span class="price-new"><?php echo $special; ?></span>
         <?php } ?>
         <br />
-        <?php if ($tax) { ?>
-        <span class="price-tax"><?php echo $text_tax; ?> <?php echo $tax; ?></span><br />
-        <?php } ?>
+        
+        <span class="text-warning" id="shipping-text">Usually will be shipped in 2-3 days<br />
+Worldwide Free Shipping</span>
+
         <?php if ($points) { ?>
         <span class="reward"><small><?php echo $text_points; ?> <?php echo $points; ?></small></span><br />
         <?php } ?>
@@ -202,7 +252,7 @@
           <span class="required">*</span>
           <?php } ?>
           <b><?php echo $option['name']; ?>:</b><br />
-          <input type="button" value="<?php echo $button_upload; ?>" id="button-option-<?php echo $option['product_option_id']; ?>" class="button">
+          <input type="button" value="<?php echo $button_upload; ?>" id="button-option-<?php echo $option['product_option_id']; ?>" class="btn btn-warning">
           <input type="hidden" name="option[<?php echo $option['product_option_id']; ?>]" value="" />
         </div>
         <br />
@@ -241,9 +291,14 @@
       </div>
       <?php } ?>
       <div class="cart">
-        <div><?php echo $text_qty; ?>
+        <div>
+
+         <?php echo $text_qty; ?>
           <input type="text" name="quantity" size="2" value="<?php echo $minimum; ?>" />
+              
           <input type="hidden" name="product_id" size="2" value="<?php echo $product_id; ?>" />
+         
+         
           &nbsp;<br /><br />
           <input type="button" value="<?php echo $button_cart; ?>" id="button-cart" class="btn btn-warning" />
           
@@ -252,99 +307,28 @@
 
             </span>
         </div>
+
+
+
         <?php if ($minimum > 1) { ?>
         <div class="minimum"><?php echo $text_minimum; ?></div>
         <?php } ?>
       </div>
-      <?php if ($review_status) { ?>
-      <div class="review">
-      
-        <div class="share"><!-- AddThis Button BEGIN -->
-          <div class="addthis_default_style"><a class="addthis_button_compact"><?php echo $text_share; ?></a> <a class="addthis_button_email"></a><a class="addthis_button_print"></a> <a class="addthis_button_facebook"></a> <a class="addthis_button_twitter"></a></div>
-          <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script> 
-          <!-- AddThis Button END --> 
-        </div>
-      </div>
-      <?php } ?>
-    </div>
-  </div>
-  <div id="tabs" class="htabs">
    
-    
-    <?php if ($products) { ?>
-    <a href="#tab-related"><?php echo $tab_related; ?> (<?php echo count($products); ?>)</a>
-    <?php } ?>
-  </div>
-  
-  <?php if ($attribute_groups) { ?>
-  <div id="tab-attribute" class="tab-content">
-    <table class="attribute">
-      <?php foreach ($attribute_groups as $attribute_group) { ?>
-      <thead>
-        <tr>
-          <td colspan="2"><?php echo $attribute_group['name']; ?></td>
-        </tr>
-      </thead>
-      <tbody>
-        <?php foreach ($attribute_group['attribute'] as $attribute) { ?>
-        <tr>
-          <td><?php echo $attribute['name']; ?></td>
-          <td><?php echo $attribute['text']; ?></td>
-        </tr>
-        <?php } ?>
-      </tbody>
-      <?php } ?>
-    </table>
-  </div>
-  <?php } ?>
-  <!-- start related product -->
-  <?php if ($products) { ?>
-  <div id="tab-related" class="tab-content">
-    <div class="box-product">
-      <?php foreach ($products as $product) { ?>
-      <div>
-        <?php if ($product['thumb']) { ?>
-        <div class="image"><a href="<?php echo $product['href']; ?>"><img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" /></a></div>
-        <?php } ?>
-        <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
-        <?php if ($product['price']) { ?>
-        <div class="price">
-          <?php if (!$product['special']) { ?>
-          <?php echo $product['price']; ?>
-          <?php } else { ?>
-          <span class="price-old"><?php echo $product['price']; ?></span> <span class="price-new"><?php echo $product['special']; ?></span>
-          <?php } ?>
-        </div>
-        <?php } ?>
-        <?php if ($product['rating']) { ?>
-        <div class="rating"><img src="catalog/view/theme/default/image/stars-<?php echo $product['rating']; ?>.png" alt="<?php echo $product['reviews']; ?>" /></div>
-        <?php } ?>
-        <a onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button"><?php echo $button_cart; ?></a></div>
-      <?php } ?>
-    </div>
-  </div>
-  <?php } ?>
-  <?php if ($tags) { ?>
-  <div class="tags"><b><?php echo $text_tags; ?></b>
-    <?php for ($i = 0; $i < count($tags); $i++) { ?>
-    <?php if ($i < (count($tags) - 1)) { ?>
-    <a href="<?php echo $tags[$i]['href']; ?>"><?php echo $tags[$i]['tag']; ?></a>,
-    <?php } else { ?>
-    <a href="<?php echo $tags[$i]['href']; ?>"><?php echo $tags[$i]['tag']; ?></a>
-    <?php } ?>
-    <?php } ?>
-  </div>
-  <?php } ?>
-  <?php echo $content_bottom; ?></div>
-<script type="text/javascript"><!--
-$(document).ready(function() {
-  $('.colorbox').colorbox({
-    overlayClose: true,
-    opacity: 0.5,
-    rel: "colorbox"
-  });
-});
-//--></script> 
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end tab -->
+ 
 
 
 
@@ -457,10 +441,185 @@ new AjaxUpload('#button-option-<?php echo $option['product_option_id']; ?>', {
 
 
 </div><!-- div row -->
+<!-- start second row -->
+<div class="row">
+  <!-- description -->
+
+
+    <div class="panel panel-default">
+
+    <div class="panel-heading">
+<!-- Nav tabs -->
+<ul class="nav nav-tabs"  id="nav-tabs" role="tablist">
+  <li class="active"><a href="#description" role="tab" data-toggle="tab">Description</a></li>
+  <li><a href="#payment" role="tab" data-toggle="tab">Payment &amp; shipping</a></li>
+  <li><a href="#reviews" role="tab" data-toggle="tab">Review</a></li>
+ 
+ 
 
 
 
 
+
+
+</ul>
+
+
+
+
+      
+    </div>
+      <div class="panel-body">
+       <div class="tab-content">
+  <div class="tab-pane active" id="description">
+    
+<?php echo $description; ?>
+
+  </div><!-- end description -->
+  <div class="tab-pane" id="payment">...</div>
+  <div class="tab-pane" id="reviews">
+    
+  <!-- start review form -->
+
+<?php if ($review_status) { ?>
+  <div id="tab-review" class="tab-content">
+    <div id="review"></div>
+    <h2 id="review-title"><?php echo $text_write; ?></h2>
+    <b><?php echo $entry_name; ?></b><br />
+    <input type="text" name="name" value="" />
+    <br />
+    <br />
+    <b><?php echo $entry_review; ?></b>
+    <textarea name="text" cols="40" rows="8" style="width: 98%;"></textarea>
+    <span style="font-size: 11px;"><?php echo $text_note; ?></span><br />
+    <br />
+    <b><?php echo $entry_rating; ?></b> <span><?php echo $entry_bad; ?></span>&nbsp;
+    <input type="radio" name="rating" value="1" />
+    &nbsp;
+    <input type="radio" name="rating" value="2" />
+    &nbsp;
+    <input type="radio" name="rating" value="3" />
+    &nbsp;
+    <input type="radio" name="rating" value="4" />
+    &nbsp;
+    <input type="radio" name="rating" value="5" />
+    &nbsp;<span><?php echo $entry_good; ?></span><br />
+    <br />
+    <b><?php echo $entry_captcha; ?></b><br />
+    <input type="text" name="captcha" value="" />
+    <br />
+    <img src="index.php?route=product/product/captcha" alt="" id="captcha" /><br />
+    <br />
+    <div class="buttons">
+      <div class="right"><a id="button-review" class="button"><?php echo $button_continue; ?></a></div>
+    </div>
+  </div>
+  <?php } ?>
+
+
+<!-- end review -->
+
+
+
+  </div><!-- end reviews -->
+ 
+</div>
+  
+
+
+        
+      </div>
+
+
+    </div>
+
+<!-- end description -->
+
+ 
+
+
+
+
+
+      <?php if ($review_status) { ?>
+      
+      
+
+
+
+
+
+
+
+      <!-- end review -->
+       
+      
+      <?php } ?>
+    </div>
+  </div>
+  <!-- start tab -->
+
+  
+  <?php if ($products) { ?>
+  <div id="tab-related" class="tab-content">
+    <div class="box-product">
+      <?php foreach ($products as $product) { ?>
+      <div>
+        <?php if ($product['thumb']) { ?>
+        <div class="image"><a href="<?php echo $product['href']; ?>"><img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" /></a></div>
+        <?php } ?>
+        <div class="name"><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></div>
+        <?php if ($product['price']) { ?>
+        <div class="price">
+          <?php if (!$product['special']) { ?>
+          <?php echo $product['price']; ?>
+          <?php } else { ?>
+          <span class="price-old"><?php echo $product['price']; ?></span> <span class="price-new"><?php echo $product['special']; ?></span>
+          <?php } ?>
+        </div>
+        <?php } ?>
+        <?php if ($product['rating']) { ?>
+        <div class="rating"><img src="catalog/view/theme/default/image/stars-<?php echo $product['rating']; ?>.png" alt="<?php echo $product['reviews']; ?>" /></div>
+        <?php } ?>
+        <a onclick="addToCart('<?php echo $product['product_id']; ?>');" class="button"><?php echo $button_cart; ?></a></div>
+      <?php } ?>
+    </div>
+  </div>
+  <?php } ?>
+  <?php if ($tags) { ?>
+  <div class="tags"><b><?php echo $text_tags; ?></b>
+    <?php for ($i = 0; $i < count($tags); $i++) { ?>
+    <?php if ($i < (count($tags) - 1)) { ?>
+    <a href="<?php echo $tags[$i]['href']; ?>"><?php echo $tags[$i]['tag']; ?></a>,
+    <?php } else { ?>
+    <a href="<?php echo $tags[$i]['href']; ?>"><?php echo $tags[$i]['tag']; ?></a>
+    <?php } ?>
+    <?php } ?>
+  </div>
+<?php } ?>
+
+
+
+
+
+</div>
+
+
+<!-- end second row -->
+<!-- start socialite -->
+<div class="row">
+  <div class="col-lg-12">  <ul id="social-icon">
+    
+    <li><a href=""><i class="fa fa-facebook fa-2x"></i></a></li>
+    <li><a href="#"><i class="fa fa-twitter fa-2x"></i></a></li>
+    <li><a href="#"><i class="fa fa-youtube fa-2x"></i></a></li>
+    <li><a href="#"><i class="fa fa-google-plus fa-2x"></i></a></li>
+    <li><a href=""><i class="fa fa-linkedin fa-2x"></i></a></li>
+    <li><a href=""></a></li>
+  </ul>
+  </div>
+
+</div><!-- end socialite -->
 
 
 

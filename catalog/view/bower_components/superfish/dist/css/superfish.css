@@ -14,8 +14,13 @@
 	left: 0;
 	z-index: 99;
 }
+
 .sf-menu > li {
 	float: left;
+	margin-left:40px;
+}
+.sf-menu > li a {
+	text-decoration: none;
 }
 .sf-menu li:hover > ul,
 .sf-menu li.sfHover > ul {
@@ -51,27 +56,37 @@
 	zoom: 1; /* IE7 */
 }
 .sf-menu a {
-	color: #13a;
+	color: #222;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+font-weight: bold;
 }
 .sf-menu li {
-	background: #BDD2FF;
+	_background: #BDD2FF;
 	white-space: nowrap; /* no need for Supersubs plugin */
 	*white-space: normal; /* ...unless you support IE7 (let it wrap) */
 	-webkit-transition: background .2s;
 	transition: background .2s;
 }
 .sf-menu ul li {
-	background: #AABDE6;
+	background: #eef;
 }
 .sf-menu ul ul li {
-	background: #9AAEDB;
+	_background: #9AAEDB;
 }
 .sf-menu li:hover,
 .sf-menu li.sfHover {
-	background: #CFDEFF;
+	_background: #CFDEFF;
 	/* only transition out, not in */
 	-webkit-transition: none;
 	transition: none;
+	border-bottom: 4px solid #222;
+
+}
+.sf-menu li.sfHover {
+	-moz-box-sizing:    border-box;
+   -webkit-box-sizing: border-box;
+    box-sizing:        border-box;
 }
 
 /*** arrows (for all except IE7) **/

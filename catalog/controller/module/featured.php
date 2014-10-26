@@ -64,10 +64,19 @@ class ControllerModuleFeatured extends Controller {
 
 		if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/module/featured.tpl')) {
 			$this->template = $this->config->get('config_template') . '/template/module/featured.tpl';
-		} else {
+		} 
+     
+		else {
 			$this->template = 'default/template/module/featured.tpl';
-		}
 
+		}
+       
+		  
+
+
+
+
+   
 		$this->render();
 	}
 }

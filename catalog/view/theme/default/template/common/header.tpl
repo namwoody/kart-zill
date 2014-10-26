@@ -16,15 +16,22 @@
 <?php foreach ($links as $link) { ?>
 <link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
 <?php } ?>
+
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css" />
 <?php foreach ($styles as $style) { ?>
+
 <link rel="<?php echo $style['rel']; ?>" type="text/css" href="<?php echo $style['href']; ?>" media="<?php echo $style['media']; ?>" />
 <?php } ?>
+
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" />
+
 <script type="text/javascript" src="catalog/view/javascript/common.js"></script>
 <?php foreach ($scripts as $script) { ?>
+
 <script type="text/javascript" src="<?php echo $script; ?>"></script>
 <?php } ?>
 <!--[if IE 7]> 
@@ -47,6 +54,9 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
 //--></script>
 <?php } ?>
 <?php echo $google_analytics; ?>
+
+
+
 </head>
 <body>
 <div id="container">
@@ -56,6 +66,41 @@ $('body').prepend('<iframe src="<?php echo $store; ?>" style="display: none;"></
   <?php } ?>
   <?php echo $language; ?>
   <?php echo $currency; ?>
+
+<!-- track order -->
+<form class="form-horizontal" action="<?php echo $this->url->link('account/track_order', '', 'SSL'); ?>" method="post">
+      <!--<input type="hidden" name="route" value="account/track_order" />-->
+      <div class="control-group <?php echo (isset($error["email"]))?'error':""; ?>">
+        <label class="control-label" for="inputEmail"><?php echo $entry_email; ?></label>
+        <div class="controls">
+          <input type="text" id="inputEmail" name="email" placeholder="<?php echo $entry_email; ?>" value="<?php echo htmlentities($email, ENT_QUOTES, "UTF-8"); ?>">
+          <?php if (isset($error["email"])) { ?>
+          <span class="help-block error"><?php echo $error["email"]; ?></span>
+          <?php } ?>
+        </div>
+      </div>
+      <div class="control-group <?php echo (isset($error["order_id"]))?'error':""; ?>">
+        <label class="control-label" for="inputOrderId"><?php echo $entry_order_id; ?></label>
+        <div class="controls">
+          <input type="text" id="inputOrderId" name="order_id" placeholder="<?php echo $entry_order_id; ?>" value="<?php echo htmlentities($order_id, ENT_QUOTES, "UTF-8"); ?>">
+          <?php if (isset($error["order_id"])) { ?>
+          <span class="help-block error"><?php echo $error["order_id"]; ?></span>
+          <?php } ?>
+        </div>
+      </div>
+      <div class="control-group">
+        <div class="controls">
+          <button type="submit" class="btn btn-warning"><?php echo $btn_track_order; ?></button>
+        </div>
+      </div>
+    </form>
+
+
+
+<!-- end track order -->
+
+
+
   <?php echo $cart; ?>
   <div id="search">
     <div class="button-search"></div>

@@ -4,14 +4,24 @@
 
 <div class="container">
   <div class="row">
-    
+     <div class="breadcrumb1"><!-- start bread crumbs -->
+    <i class="fa fa-home fa-2x" style="color:#f0ad4e;"></i>
+     <?php foreach ($breadcrumbs as $breadcrumb) { ?>
+     <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
+     <?php } ?>
+   </div><!-- end bread crumbs -->
+
 <div class="col-lg-3">
   
   <?php echo $column_left; ?>
 </div><!-- end col-lg-3 -->
   
 
-<?php if ($attention) { ?>
+
+
+
+<div class="col-lg-9">
+ <?php if ($attention) { ?>
 <div class="attention"><?php echo $attention; ?><img src="catalog/view/theme/default/image/close.png" alt="" class="close" /></div>
 <?php } ?>
 <?php if ($success) { ?>
@@ -20,19 +30,11 @@
 <?php if ($error_warning) { ?>
 <div class="warning"><?php echo $error_warning; ?><img src="catalog/view/theme/default/image/close.png" alt="" class="close" /></div>
 <?php } ?>
-
-
-<div class="col-lg-9">
-  <div class="breadcrumb">
-    <?php foreach ($breadcrumbs as $breadcrumb) { ?>
-    <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
-    <?php } ?>
-  </div>
-  <h1><?php echo $heading_title; ?>
+  <h3><?php echo $heading_title; ?>
     <?php if ($weight) { ?>
     &nbsp;(<?php echo $weight; ?>)
     <?php } ?>
-  </h1>
+  </h3>
   <form action="<?php echo $action; ?>" method="post" enctype="multipart/form-data">
     <div class="cart-info">
       <table>
@@ -214,9 +216,9 @@
       <?php } ?>
     </table>
   </div>
-  <div class="buttons">
-    <div class="right"><a href="<?php echo $checkout; ?>" class="button"><?php echo $button_checkout; ?></a></div>
-    <div class="center"><a href="<?php echo $continue; ?>" class="button"><?php echo $button_shopping; ?></a></div>
+  <div class="buttons" id="buttons">
+    <div class="right"><a href="<?php echo $checkout; ?>" class="btn btn-warning"><?php echo $button_checkout; ?></a></div>
+    <div class="center"><a href="<?php echo $continue; ?>" class="btn btn-warning"><?php echo $button_shopping; ?></a></div>
   </div>
   <?php echo $content_bottom; ?></div>
 
@@ -305,9 +307,9 @@ $('#button-quote').live('click', function() {
 				html += '  <input type="hidden" name="next" value="shipping" />';
 				
 				<?php if ($shipping_method) { ?>
-				html += '  <input type="submit" value="<?php echo $button_shipping; ?>" id="button-shipping" class="button" />';	
+				html += '  <input type="submit" value="<?php echo $button_shipping; ?>" id="button-shipping" class="btn btn-warning" />';	
 				<?php } else { ?>
-				html += '  <input type="submit" value="<?php echo $button_shipping; ?>" id="button-shipping" class="button" disabled="disabled" />';	
+				html += '  <input type="submit" value="<?php echo $button_shipping; ?>" id="button-shipping" class="btn btn-warning" disabled="disabled" />';	
 				<?php } ?>
 							
 				html += '</form>';

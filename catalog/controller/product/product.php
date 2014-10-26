@@ -276,6 +276,7 @@ class ControllerProductProduct extends Controller {
 			$this->data['manufacturers'] = $this->url->link('product/manufacturer/info', 'manufacturer_id=' . $product_info['manufacturer_id']);
 			$this->data['model'] = $product_info['model'];
 			$this->data['reward'] = $product_info['reward'];
+			$this->data['sku'] = $product_info['sku'];
 			$this->data['points'] = $product_info['points'];
 
 			if ($product_info['quantity'] <= 0) {
@@ -358,7 +359,7 @@ class ControllerProductProduct extends Controller {
 								'product_option_value_id' => $option_value['product_option_value_id'],
 								'option_value_id'         => $option_value['option_value_id'],
 								'name'                    => $option_value['name'],
-								'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+								'image'                   => $this->model_tool_image->resize($option_value['image'], 100, 100),
 								'price'                   => $price,
 								'price_prefix'            => $option_value['price_prefix']
 							);

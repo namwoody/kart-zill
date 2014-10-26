@@ -4,8 +4,10 @@
 <div class="row">
 <!-- start container -->
 
+
+
 <div class="col-lg-3">
-  <?php echo $column_left; ?>
+ 
 
 </div><!-- end col-lg-3 -->
 
@@ -13,22 +15,20 @@
 
 
 
+
+
+
+<div class="col-lg-9"><!-- start content -->
+
 <?php if ($success) { ?>
 <div class="success"><?php echo $success; ?></div>
 <?php } ?>
 <?php if ($error_warning) { ?>
 <div class="warning"><?php echo $error_warning; ?></div>
 <?php } ?>
-
-
-<div class="col-lg-9"><!-- start content -->
 <h3><?php echo $heading_title; ?></h3>
 
-  <div class="breadcrumb-1">
-    <?php foreach ($breadcrumbs as $breadcrumb) { ?>
-    <?php echo $breadcrumb['separator']; ?><a href="<?php echo $breadcrumb['href']; ?>"><?php echo $breadcrumb['text']; ?></a>
-    <?php } ?>
-  </div>
+ 
 
 
 
@@ -74,7 +74,7 @@
           <br />
           <a href="<?php echo $forgotten; ?>"><?php echo $text_forgotten; ?></a><br />
           <br />
-          <input type="submit" value="<?php echo $button_login; ?>" class="button" />
+          <input type="submit" value="<?php echo $button_login; ?>" class="btn btn-warning" />
           <?php if ($redirect) { ?>
           <input type="hidden" name="redirect" value="<?php echo $redirect; ?>" />
           <?php } ?>

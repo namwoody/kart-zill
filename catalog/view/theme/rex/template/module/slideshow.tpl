@@ -1,8 +1,5 @@
 
-<div class="container">
-<div class="row">
 
-<div class="col-lg-12">
 <div class="slideshow">
   <div id="slideshow<?php echo $module; ?>" class="nivoSlider" style="width: <?php echo $width; ?>px; height: <?php echo $height; ?>px;">
     <?php foreach ($banners as $banner) { ?>
@@ -16,9 +13,10 @@
 </div>
 
 
-</div><!-- end col-lg-12 -->
-</div><!-- end row -->
-</div><!-- end container -->
+
+
+
+
 <script type="text/javascript"><!--
 $(document).ready(function() {
     $('#slideshow<?php echo $module; ?>').nivoSlider();

@@ -81,6 +81,7 @@ label {
 #content {
 	min-height: 400px;
 	margin-bottom: 25px;
+	margin-top: 0px;
 }
 #column-left + #column-right + #content, #column-left + #content {
 	margin-left: 195px;
@@ -1047,7 +1048,7 @@ ul.box-filter > li ul {
 	margin-bottom: 10px;
 }
 .product-info .description {
-	border-top: 1px solid #E7E7E7;
+	
 	border-bottom: 1px solid #E7E7E7;
 	padding: 5px 5px 10px 5px;
 	margin-bottom: 10px;

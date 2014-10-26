@@ -61,9 +61,8 @@ label {
 	text-align: left;
 }
 #column-left {
-	float: left;
-	width: 260px;
-	margin: 80px 0 0 0 ;
+	
+	margin: 0px 0 0 0 ;
 }
 #column-right {
 	float: right;
@@ -72,7 +71,7 @@ label {
 #content {
 	min-height: 400px;
 	margin-bottom: 25px;
-	margin-top:80px;
+	_margin-top:80px;
 }
 #column-left + #column-right + #content, #column-left + #content {
 	margin-left: 195px;
@@ -90,8 +89,8 @@ label {
 }
 #header #logo {
 	position: absolute;
-	top: 25px;
-	left: 15px;
+	top: 15px;
+	
 }
 #language {
 	position: absolute;
@@ -106,12 +105,12 @@ label {
 	margin-right: 5px;
 }
 #currency {
-	width: 75px;
-	position: absolute;
+	
+	
 	top: 15px;
-	left: 425px;
+	
 	color: #999;
-	line-height: 17px;
+	line-height:20px;
 }
 #currency a {
 	_display: inline-block;
@@ -131,17 +130,15 @@ label {
 	top: 0px;
 	
 	z-index: 9;
-	min-width: 300px;
+	min-width: 280px;
 }
 #header #cart .heading {
-	float: right;
-	margin-right: 172px;
+	
+	_margin-right: 80px;
 	margin-top: 15px;
 	padding-left: 14px;
 	padding-right: 14px;
-	border-top: 1px solid #FFFFFF;
-	border-left: 1px solid #FFFFFF;
-	border-right: 1px solid #EEEEEE;
+	
 	background: #FFF;
 	position: relative;
 	z-index: 1;
@@ -250,7 +247,7 @@ label {
 	text-align: center;
 }
 #header #search {
-	position: absolute;
+	_position: absolute;
 	top: 15px;
 	right: 0px;
 	width: 298px;
@@ -267,9 +264,9 @@ label {
 }
 #header #search input {
 	background: #FFF;
-	padding: 1px 1px 1px 33px;
+	padding: 1px 1px 1px 6px;
 	width: 262px;
-	height: 21px;
+	height: 35px;
 	border: 1px solid #CCCCCC;
 	-webkit-border-radius: 3px 3px 3px 3px;
 	-moz-border-radius: 3px 3px 3px 3px;
@@ -310,6 +307,7 @@ label {
 /* menu */
 #menu {
 	
+	border-bottom: 3px solid #fc9300;
 	
 	height: 50px;
 	margin-bottom: 30px;
@@ -318,12 +316,15 @@ label {
 	_-webkit-box-shadow: 0px 2px 2px #DDDDDD;
 	_-moz-box-shadow: 0px 2px 2px #DDDDDD;
 	_box-shadow: 0px 2px 2px #DDDDDD;
-	padding: 8px 5px;
+	padding: 10px 5px;
 }
 #menu ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
+}
+#menu ul > li > ul {
+	margin-top: 4px;
 }
 #menu > ul > li {
 	position: relative;
@@ -628,9 +629,8 @@ a.button:hover, input.button:hover {
 	background: #FFFFFF;
 }
 .tab-content {
-	border-left: 1px solid #DDDDDD;
-	border-right: 1px solid #DDDDDD;
-	border-bottom: 1px solid #DDDDDD;
+	
+	
 	padding: 10px;
 	margin-bottom: 20px;
 	z-index: 2;
@@ -674,7 +674,7 @@ text-shadow: 0 0 1px rgba(0,0,0,0.4);
 	overflow: auto;
 }
 .box-product > div {
-	width: 250px;
+	width: 168px;
 	display: inline-block;
 	vertical-align: top;
 	margin-right: 20px;
@@ -942,7 +942,7 @@ ul.box-filter > li ul {
 	overflow: auto;
 }
 .product-grid > div {
-	width: 260px;
+	width: 220px;
 	display: inline-block;
 	vertical-align: top;
 	margin-right: 20px;
@@ -957,15 +957,16 @@ ul.box-filter > li ul {
 }
 .product-grid .image img {
 	padding: 3px;
-	width:180px;
+	width:220px;
 	border: 1px solid #E7E7E7;
+	height: 170px;
 }
 .product-grid .name a {
-	color: #38B0E3;
-	font-weight: bold;
+	color: #000;
 	text-decoration: none;
 	display: block;
 	margin-bottom: 4px;
+	font-size: 11px;
 }
 .product-grid .description {
 	display: none;
@@ -1045,7 +1046,7 @@ ul.box-filter > li ul {
 	margin-bottom: 10px;
 }
 .product-info .description {
-	border-top: 1px solid #E7E7E7;
+	_border-top: 1px solid #E7E7E7;
 	border-bottom: 1px solid #E7E7E7;
 	padding: 5px 5px 10px 5px;
 	margin-bottom: 10px;
