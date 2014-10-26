@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8000/');
+define('HTTP_SERVER', 'http://kartzill.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8000/');
+define('HTTPS_SERVER', 'http://kartzill.com/');
 
 // DIR
 define('DIR_APPLICATION', '/Users/unobab/Desktop/kitchen/catalog/');
